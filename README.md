@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @daniel011G
+- 👀 I’m interested in coding...
+- 🌱 I’m currently learning HTML...
+- 💞️ I’m looking forward to working with you guys ...
+- 📫 you can reach me here ...
+- ⚡ Fun fact: I just started coding and it feels like i've been doing this for the past years, it takes literally nothing to get started.
+- i love the fact that it makes our lives easier and its not just code, you can literally write code that can help people from the rural areas to order items from other countries.
+
+
+<!---
+daniel011G/daniel011G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
